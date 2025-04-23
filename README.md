@@ -62,7 +62,7 @@ In this phase, the following analyses were conducted:
 - Service usage analysis (Phone Service, Internet Service, etc.).
 - Churn distribution based on contract type and payment methods.
 
-## Streamlit Dashboard
+<!-- ## Streamlit Dashboard
 
 A Streamlit dashboard was created to visualize insights from the data. Key features of the dashboard include:
 
@@ -75,4 +75,4 @@ A Streamlit dashboard was created to visualize insights from the data. Key featu
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/telecom-churn-analysis.git
-   cd telecom-churn-analysis
+   cd telecom-churn-analysis -->
