@@ -35,6 +35,19 @@ The dataset used for this project contains information about telecom customers, 
 - **ChargeBin** (category): Binned monthly charges (Low, Medium, High).
 - **RoundedCharges** (float64): Rounded monthly charges.
 
+
+## 📚 Libraries Used
+
+The following Python libraries were used in the project:
+
+### 🔧 Data Handling & Manipulation
+- **pandas**: For data loading, manipulation, and analysis.
+- **numpy**: For numerical operations and handling missing data.
+
+### 📊 Visualization
+- **matplotlib**: For creating static, animated, and interactive visualizations.
+- **seaborn**: For enhanced statistical data visualization.
+
 <!-- ## Project Tasks
 
 The tasks are divided among the team members as follows:
@@ -61,6 +74,18 @@ In this phase, the following analyses were conducted:
 - Churn analysis based on customer tenure (Period).
 - Service usage analysis (Phone Service, Internet Service, etc.).
 - Churn distribution based on contract type and payment methods.
+
+
+## 📊 Key Analyses & Insights
+
+- **Churn vs Contract Type**: Customers on month-to-month contracts are more likely to churn.
+- **Churn vs Monthly Charges**: Higher charges are associated with increased churn.
+- **Churn vs Senior Citizens**: Senior citizens show slightly higher churn rates.
+- **Gender**: No significant correlation with churn, but still analyzed for completeness.
+- **Services**: Customers lacking additional services (e.g., TechSupport, Backup) tend to churn more.
+- **There are more insights find it**
+
+
 
 <!-- ## Streamlit Dashboard
 
