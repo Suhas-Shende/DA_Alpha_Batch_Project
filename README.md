@@ -6,6 +6,14 @@ This project focuses on analyzing customer churn in a telecom dataset. The goal 
 
 Customer churn is a critical metric for telecom companies, as retaining customers is more cost-effective than acquiring new ones. This analysis aims to identify factors contributing to churn and provide insights into customer retention strategies.
 
+## 🔍 Objective
+
+The primary goal is to understand **why customers are leaving (churning)** and help the company **retain more customers** by analyzing usage patterns, service preferences, and demographics. Insights derived can be used to:
+
+- Predict customers at risk of churning.
+- Develop targeted retention campaigns.
+- Improve service offerings based on customer preferences.
+
 ## Dataset
 
 The dataset used for this project contains information about telecom customers, including their demographics, services, and usage patterns. The columns in the dataset are:
@@ -27,14 +35,14 @@ The dataset used for this project contains information about telecom customers, 
 - **ChargeBin** (category): Binned monthly charges (Low, Medium, High).
 - **RoundedCharges** (float64): Rounded monthly charges.
 
-## Project Tasks
+<!-- ## Project Tasks
 
 The tasks are divided among the team members as follows:
 
 - **Rutuja**: Data Cleaning, Count by Churn, Churn by Gender.
 - **Suhas**: Churn by Senior Citizen, Period, PhoneService to StreamingTV.
 - **Kewal**: Contract, Monthly Charges.
-- **Chirag**: Payment Method.
+- **Chirag**: Payment Method. -->
 
 ## Data Cleaning
 
